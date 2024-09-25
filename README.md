@@ -6,10 +6,11 @@ The program's functionality allows you to generate the shortest route from point
 ___
 **Installation**
 
-Clone the repository from GitHub
+1. Clone the repository from GitHub
 ```
 git clone https://github.com/sldkfvnaevndsk/NavigationAlgorithm.git
 ```
+2. Run MainWindow.java from the folder "src", using any IDE for Java (e.g., IntelliJ IDEA)
 ___
 **Applying**
 
